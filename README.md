@@ -16,7 +16,7 @@ Designed and developed a professional portfolio website to showcase my projects,
 Created a simple calculator using HTML, CSS and Javascript. This has a simple and clean UI.
 
 **Task 4**: Tribute Page
-This is a simple tribute page head to Dr APJ Abdul Kalam Sir. With some gradients looking cool UI.
+This is a simple tribute page head to mahatma gandhi. With some gradients looking cool UI.
 
 ## **Level Two**
 
